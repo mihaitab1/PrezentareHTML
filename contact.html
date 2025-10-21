@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact – Tăbăcaru Mihai Alexandru</title>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Acasă</a> |
+    <a href="cv.html">CV</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>Formular de contact</h1>
+
+  <p>
+    Completează formularul de mai jos pentru a-mi trimite un mesaj. 
+    Formularul folosește <code>mailto:</code> pentru a deschide aplicația ta de e-mail.
+  </p>
+
+  <form action="mailto:mihai.tabacaru@stud.acs.upb.ro" method="GET" enctype="text/plain">
+    <label for="nume">Nume:</label><br>
+    <input type="text" id="nume" name="name" required><br><br>
+
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="subject">Subiect:</label><br>
+    <input type="text" id="subject" name="subject" required><br><br>
+
+    <label for="body">Mesaj:</label><br>
+    <textarea id="body" name="body" rows="5" cols="30" required></textarea><br><br>
+
+    <input type="submit" value="Trimite">
+  </form>
+
+  <footer>
+    <p>&copy; 2025 Tăbăcaru Mihai Alexandru</p>
+  </footer>
+</body>
+</html>
