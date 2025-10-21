@@ -2,7 +2,7 @@
 
 **Universitatea Națională de Știință și Tehnologie Politehnica București**  
 Facultatea de Automatică și Calculatoare  
-Grupa: P1  
+Grupa: 322  
 
 ---
 
