@@ -9,7 +9,7 @@ Grupa: 322
 ## 🧩 Descriere
 
 Acest proiect reprezintă **Tema 1** la disciplina Tehnologii Web.  
-Scopul este realizarea unui site web de prezentare, folosind **doar HTML**, fără CSS sau JavaScript.
+Scopul este realizarea unui site web de prezentare, folosind **doar HTML**.
 
 Site-ul conține **trei pagini**:
 
